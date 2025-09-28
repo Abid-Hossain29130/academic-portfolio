@@ -1,6 +1,6 @@
 # Research Masterclass Project: Quantum Computing & Security
 
-**Supervisor:** Prof. Dr. Karim Mohammed Rezaul
+**Supervisor:** [Prof. Dr. Karim Mohammed Rezaul](https://www.westminster.ac.uk/about-us/our-people/directory/karim-karim) ([Google Scholar Profile](https://scholar.google.com/citations?user=f8SRHYsAAAAJ&hl=en))
 **Institution:** CARSIT, BCET, UK
 
 ## Project Overview
@@ -12,6 +12,7 @@ This project demonstrates my ability to:
 - Communicate complex technical concepts clearly.
 - Adhere to professional standards of academic referencing and presentation.
 
+---
 
 ## Artifacts
 
