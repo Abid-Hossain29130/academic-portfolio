@@ -12,7 +12,16 @@ This project demonstrates my ability to:
 - Communicate complex technical concepts clearly.
 - Adhere to professional standards of academic referencing and presentation.
 
+
 ## Artifacts
 
-*   [View the Research Presentation (PDF)](./Quantum_Security_Presentation.pdf)
+### Research Presentation
+
+Click the image below to view the full presentation PDF.
+
+[![Quantum Security Presentation Preview](./presentation_preview.png)](./Quantum_Security_Presentation.pdf)
+
+<br>
+
+### Certificate of Completion
 *   [View the Certificate of Completion](./Certificate_Dr_Rezaul.png)
